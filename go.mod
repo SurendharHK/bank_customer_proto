@@ -1,4 +1,4 @@
-module bank_customer_proto
+module github.com/SurendharHK/bank_customer_proto
 
 go 1.21.0
 
